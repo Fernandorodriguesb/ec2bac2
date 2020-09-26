@@ -2,5 +2,5 @@ language: python
 python:
         - "3.4"
 scirpt:
-        - cd src; pyton testes.py
+        - cd src; python testes.py
           
